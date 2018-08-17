@@ -137,7 +137,7 @@
                "sourceStrategy": {
                   "from": {
                      "kind": "DockerImage",
-                     "name": "radanalyticsio/radanalytics-pyspark"
+                     "name": "brew-pulp-docker01.web.prod.ext.phx2.redhat.com:8888/rhpam-7/rhpam70-s2ipython-openshift:rhpam-7.0-s2ipython-openshift-rhel-7-containers-candidate-57256-20180809204112"
                   },
                   "forcePull": true,
                   "env": [
